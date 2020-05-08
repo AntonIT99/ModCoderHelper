@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1588954644 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\insa\modcoderhelper\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+
