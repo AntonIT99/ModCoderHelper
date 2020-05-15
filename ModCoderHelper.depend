@@ -7,3 +7,11 @@
 	<dirent.h>
 	<string.h>
 
+1588958455 source:c:\users\alpha\documents\c & c++ projects\modcoderhelper\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+
